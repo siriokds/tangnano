@@ -13,3 +13,8 @@ After you have unpacked the archive you will find 3 folders: "bin", "doc" and "d
 Update a firmware to your TangNano 9K board
 -------------
 Just follow this [instructions](ProgrammerInstructions_TangNano9K.md).
+
+Update a firmware to your TangNano 20K board
+-------------
+Just follow this [instructions](ProgrammerInstructions_TangNano20K.md).
+

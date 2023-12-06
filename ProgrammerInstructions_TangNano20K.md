@@ -1,0 +1,27 @@
+# Gowin Programmer Instructions
+
+USB Cable Setting
+-------------
+
+![](images/Programmer_CableConfig_1.png)
+![](images/Programmer_CableConfig_2.png)
+
+Select your board
+-------------
+![](images/Programmer_NoDevice.png)
+![](images/Programmer_Select_20K_1.png)
+![](images/Programmer_Select_20K_2.png)
+
+Select Operation: Embedded Flash Mode
+-------------
+![](images/Programmer_Operation_1.png)
+![](images/Programmer_Operation_2.png)
+![](images/Programmer_Operation_3.png)
+![](images/Programmer_Operation_4.png)
+![](images/Programmer_Operation_5.png)
+
+Save firmware to your board
+-------------
+![](images/Programmer_Programming_1.png)
+![](images/Programmer_Programming_2.png)
+![](images/Programmer_Programming_3.png)
