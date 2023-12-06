@@ -10,6 +10,6 @@ After you have unpacked the archive you will find 3 folders: "bin", "doc" and "d
 3. Recommended: create a shortcut of the file **/bin/programmer.exe** to the desktop.
 
 
-Update a firmware to your board
+Update a firmware to your TangNano 9K board
 -------------
-Just follow this [instructions](ProgrammerInstructions.md).
+Just follow this [instructions](ProgrammerInstructions_TangNano9K.md).
