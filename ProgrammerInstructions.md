@@ -9,8 +9,8 @@ USB Cable Setting
 Select your board
 -------------
 ![](images/Programmer_NoDevice.png)
-![](Programmer_Select_9K_1.png)
-![](Programmer_Select_9K_2.png)
+![](images/Programmer_Select_9K_1.png)
+![](images/Programmer_Select_9K_2.png)
 
 Select Operation: Write to flash
 -------------
