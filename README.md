@@ -7,5 +7,5 @@ After you have unpacked the archive you will find 3 folders: "bin", "doc" and "d
 
 1. Go to the "driver" folder, click and install the file **/drivers/GowinUSBCableDriverV5_for_win7+.exe**
 2. Go to the "bin" folder and run the file **/bin/programmer.exe**
-3. Recommended: create a shortcut of the file **/bin/programmer.exe**
+3. Recommended: create a shortcut of the file **/bin/programmer.exe** to the desktop.
 
