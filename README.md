@@ -1,6 +1,6 @@
 # TangNano and Gowin utilities
 
-GoWin Programmer
+GoWin Programmer Installation
 -------------
 In order to download Gowin TangNano programmer click right mouse button and choose "Save link As..." to this [link](https://github.com/siriokds/tangnano/blob/main/programmer.zip).
 After you have unpacked the archive you will find 3 folders: "bin", "doc" and "drivers".
@@ -9,3 +9,7 @@ After you have unpacked the archive you will find 3 folders: "bin", "doc" and "d
 2. Go to the "bin" folder and run the file **/bin/programmer.exe**
 3. Recommended: create a shortcut of the file **/bin/programmer.exe** to the desktop.
 
+
+Update a firmware to your board
+-------------
+Just follow this [instructions](ProgrammerInstructions.md).
