@@ -12,7 +12,7 @@ Select your board
 ![](images/Programmer_Select_9K_1.png)
 ![](images/Programmer_Select_9K_2.png)
 
-Select Operation: Write to flash
+Select Operation: Embedded Flash Mode
 -------------
 ![](images/Programmer_Operation_1.png)
 ![](images/Programmer_Operation_2.png)
